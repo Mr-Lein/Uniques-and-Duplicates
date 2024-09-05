@@ -8,7 +8,7 @@ Lab Description :   Read in a list of words/letters and determine which values a
 	
 	
 Sample Data : 
-a b c d e f g h a b c d e f g h i j k
+a b c d e f g h a b c d e f g h i j k<b>
 one two three one two three six seven one two
 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 6
 
