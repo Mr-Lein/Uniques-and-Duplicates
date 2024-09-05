@@ -18,13 +18,12 @@ one two three one two three six seven one two\
 Sample Output :
 Original List : a b c d e f g h a b c d e f g h i j k\
 Uniques : [a, b, c, d, e, f, g, h, i, j, k]\
-Dupes : [a, b, c, d, e, f, g, h]\
+Dupes : [a, b, c, d, e, f, g, h]
 
 
-Original List : one two three one two three six seven one two
-
+Original List : one two three one two three six seven one two\
 Uniques : [one, seven, six, three, two]\
-Dupes : [one, three, two]\
+Dupes : [one, three, two]
 
 
 Original List : 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 6\
